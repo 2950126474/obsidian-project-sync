@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian 项目同步"
+  short_description: "安全同步项目记录到独立或中央 Obsidian Vault"
+  default_prompt: "Use $obsidian-project-sync to safely back up and synchronize this project's records into its authoritative Obsidian Vault."
